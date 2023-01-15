@@ -1,0 +1,4 @@
+Game_name:祥阁鸣泣之时Ⅰ-纯剧情;
+Game_key:xgmqzs1onlytext;
+Title_bgm:TeaBreak.mp3;
+Title_img:background1.png;
