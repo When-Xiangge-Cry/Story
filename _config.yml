@@ -1,21 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 domain: xgmqzs.khboys.cn
 url: https://xgmqzs.khboys.cn
-logo: "https://club.khboys.cn/res/image/nobgonlylogo1.png"
 color_scheme: dark
 search_enabled: true
 heading_anchors: true
-collections:
-  XXX村民:
-    permalink: "/村民的想法堆/"
-    output: true
-  柠鸭吖:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    XXX村民:
-      name: XXX村民
-    柠鸭吖:
-      name: 柠鸭吖
