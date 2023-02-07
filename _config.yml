@@ -7,7 +7,7 @@ search_enabled: true
 heading_anchors: true
 collections:
   XXX村民:
-    permalink: "/:collection/:path/"
+    permalink: "/main/村民的想法堆/"
     output: true
   柠鸭吖:
     permalink: "/:collection/:path/"
