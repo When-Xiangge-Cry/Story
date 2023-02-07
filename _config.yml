@@ -3,3 +3,19 @@ domain: xgmqzs.khboys.cn
 url: https://xgmqzs.khboys.cn
 logo: "https://club.khboys.cn/res/image/nobgonlylogo1.png"
 color_scheme: dark
+search_enabled: true
+heading_anchors: true
+collections:
+  tests:
+    permalink: "/:collection/:path/"
+    output: true
+  tutorials:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    tests:
+      name: Tests
+    tutorials:
+      name: Tutorials
