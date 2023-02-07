@@ -2,8 +2,6 @@ remote_theme: just-the-docs/just-the-docs
 domain: xgmqzs.khboys.cn
 url: https://xgmqzs.khboys.cn
 color_scheme: dark
-search_enabled: true
-heading_anchors: true
 aux_links:
   "GitHub":
     - "https://github.com/When-Xiangge-Cry/Story"
