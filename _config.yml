@@ -6,16 +6,16 @@ color_scheme: dark
 search_enabled: true
 heading_anchors: true
 collections:
-  tests:
+  XXX村民:
     permalink: "/:collection/:path/"
     output: true
-  tutorials:
+  柠鸭吖:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
-    tests:
-      name: Tests
-    tutorials:
-      name: Tutorials
+    XXX村民:
+      name: XXX村民
+    柠鸭吖:
+      name: 柠鸭吖
