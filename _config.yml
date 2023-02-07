@@ -4,3 +4,15 @@ url: https://xgmqzs.khboys.cn
 color_scheme: dark
 search_enabled: true
 heading_anchors: true
+aux_links:
+  "GitHub":
+    - "https://github.com/When-Xiangge-Cry/Story"
+  "官网":
+    - "https://club.khboys.cn"
+nav_external_links:
+  - title: Discussions讨论
+    url: https://github.com/When-Xiangge-Cry/Story/discussions
+    hide_icon: false
+  - title: issues问题
+    url: https://github.com/When-Xiangge-Cry/Story/issues
+    hide_icon: false
